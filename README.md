@@ -1,5 +1,5 @@
-# list-majority-detector
-Algorithms for detecting when one value makes up more than half of a list
+# array-majority-detector
+Algorithms for detecting when one value makes up more than half of an array
 
 This was a coding challenge that was on an a shared-coding website that an interviewer sent to me a couple days before
 the interview.  I worked on the problem for a few hours across two nights, and while it turned out that the interviewer
